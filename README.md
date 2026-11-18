@@ -26,6 +26,7 @@ The concept includes:
 - Multilingual support for visitors exploring unfamiliar cities
 - A dedicated vehicle that waits while passengers explore each stop
 - Consideration of passenger safety, accessibility, and pickup and drop-off needs
+[View the project, simulation video, and presentation](https://github.com/YasminKhs/autonomous-tourism-taxi)
 
 ### Bruce's Mill Accessibility | C4 Project
 Worked with an interdisciplinary team to develop an accessibility-focused layout for community event spaces, considering both physical and cognitive accessibility.
